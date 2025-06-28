@@ -19,7 +19,6 @@ import {
   LogOut,
   BanknoteArrowUp,
   ChevronDown,
-  ChevronLeft,
   ChevronLeftSquare,
   ChevronRightSquare
 } from "lucide-react"
